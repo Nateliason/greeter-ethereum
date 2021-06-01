@@ -1,3 +1,5 @@
+A super simple smart contract backed app for setting a string, and getting the value of it. Practice making an Ethereum app from scratch, not using a scaffold or copying from a course.
+
 This is based on the guide at https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13
 
 ## To Launch the App
